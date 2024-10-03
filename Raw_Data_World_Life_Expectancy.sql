@@ -1,0 +1,1 @@
+SELECT * FROM world_life_expectancy.world_life_expectancy_original;
